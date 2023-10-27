@@ -4,7 +4,7 @@
   "description": "run leetcode locally",
   "scripts": {
     "test": "jest",
-    "watch": "jest --watchAll"
+    "watch": "jest --watch"
   },
   "type": "module",
   "author": "Nick Silva",
