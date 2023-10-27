@@ -1,0 +1,16 @@
+{
+  "name": "leetcode-solutions",
+  "version": "1.0.0",
+  "description": "run leetcode locally",
+  "scripts": {
+    "test": "jest",
+    "watch": "jest --watchAll"
+  },
+  "type": "module",
+  "author": "Nick Silva",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/preset-env": "^7.23.2",
+    "jest": "^29.7.0"
+  }
+}
