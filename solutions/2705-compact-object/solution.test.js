@@ -1,6 +1,6 @@
 import solution from './solution';
 
-describe('1480. Running Sum of 1d Array', () => {
+describe('2705. Compact Object', () => {
   it('Case 1', () => {
     const input = [null, 0, false, 1];
     const expected = [1];
